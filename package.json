@@ -1,0 +1,29 @@
+{
+  "name": "the-mastodon-list",
+  "version": "1.0.0",
+  "description": "This is a source code for the Mastodon List website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronilaukkarinen/the-mastodon-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronilaukkarinen/the-mastodon-list/issues"
+  },
+  "homepage": "https://github.com/ronilaukkarinen/the-mastodon-list#readme",
+  "devDependencies": {
+    "@ronilaukkarinen/stylelint-a11y": "^1.2.4",
+    "moment": "^2.29.4",
+    "stylelint": "^14.16.0",
+    "stylelint-order": "^5.0.0",
+    "twemoji": "^14.0.2"
+  },
+  "dependencies": {
+    "anchor-js": "^4.3.1"
+  }
+}
